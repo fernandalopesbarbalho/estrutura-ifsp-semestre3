@@ -18,3 +18,10 @@ Exemplo fornecido pelo professor sobre como realizar uma passagem em Linguagem C
 
 ### Exercício de Fixação Ponteiros
 Crie as declarações de ponteiros para as estruturas de dados solicitadas e escreva um pseudocódigo de um programa que recebe uma cadeia de caracteres pelo teclado e exibe na tela a cadeia invertida.
+
+## Ordenação BubbleSort - 29/03/2024
+Ordene o vetor em ordem crescente e utilize a busca binária. 
+
+Tabela com todos os resultados intermediários da operação:
+
+![image](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/assets/137642560/c6af4c8c-50a3-4cc0-98b8-8b17e1678425)

@@ -25,3 +25,6 @@ Ordene o vetor em ordem crescente e utilize a busca binária.
 Tabela com todos os resultados intermediários da operação:
 
 ![image](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/assets/137642560/c6af4c8c-50a3-4cc0-98b8-8b17e1678425)
+
+## Ordenação de Vetores - 07/04/2024
+Receba os dados e ordene os vetores por meio de seleção e bolha.

@@ -28,3 +28,15 @@ Tabela com todos os resultados intermediários da operação:
 
 ## Ordenação de Vetores - 07/04/2024
 Receba os dados e ordene os vetores por meio de seleção e bolha.
+
+## Aula de Busca e Ordenação - 01/07/2024
+Um programa recursivo é um programa que chama a si mesmo.
+
+### Busca Linear Recursiva
+Uma função que realiza uma busca para encontrar uma chave x em um vetor de inteiros. Caso não encontre, retorna -1.
+
+### Busca Binária Recursiva
+Uma função que realiza uma busca para encontrar uma chave x dividindo o vetor em 2 partes. 
+
+### Ordenação por Inserção Recursiva
+Uma função que seleciona o primeiro elemento da lista desordenada e coloca em sua posição correta na lista ordenada e repete até o fim da ordenação.

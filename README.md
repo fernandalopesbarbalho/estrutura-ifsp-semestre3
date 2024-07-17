@@ -40,3 +40,13 @@ Uma função que realiza uma busca para encontrar uma chave x dividindo o vetor 
 
 ### Ordenação por Inserção Recursiva
 Uma função que seleciona o primeiro elemento da lista desordenada e coloca em sua posição correta na lista ordenada e repete até o fim da ordenação.
+
+## Trabalho de Avaliação - 14/07/2024
+### Função Ordenação
+Funções de ordenação em vetores com selection sort, bubble sort, merge sort e quick sort.
+
+### Função Alfabética
+Funções de ordenação em listas de nomes com bubble sort e insertion sort.
+
+### Função Busca Binária
+Função de busca binária recursiva para encontrar uma chave em um vetor de inteiros.

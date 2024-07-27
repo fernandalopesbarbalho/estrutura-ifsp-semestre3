@@ -25,7 +25,7 @@ Ordene o vetor em ordem crescente e utilize a busca binária.
 
 Tabela com todos os resultados intermediários da operação:
 
-![image](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/assets/137642560/c6af4c8c-50a3-4cc0-98b8-8b17e1678425)
+![image](https://github.com/user-attachments/assets/52abf47d-263b-45fd-ae43-879b7e880f73)
 
 ## [Ordenação de Vetores](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/ordenacao_vetores.c) - 07/04/2024
 Receba os dados e ordene os vetores por meio de seleção e bolha.
@@ -54,3 +54,35 @@ Função de busca binária recursiva para encontrar uma chave em um vetor de int
 
 ## [Exemplo Ordenação em Java](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/tree/main/exemplo_ordenacao_java) - 15/07/2024
 Exemplo fornecido pelo professor sobre como utilizar a ordenação em java. 
+
+## Exercícios Listas Lineares - 20/07/2024
+Considere uma lista duplamente encadeada, que inicialmente está vazia. Cada elemento da lista tem um conteúdo, além de ponteiros para o próximo elemento e para o anterior. Dois ponteiros indicam, respectivamente, o primeiro e o último elemento da lista. A tabela abaixo apresenta as operações ocorridas nesta lista durante um certo período de tempo.
+
+![image](https://github.com/user-attachments/assets/dab9870b-ff81-488b-8409-415477d2f746)
+
+Preencha, os valores dos elementos da lista (conteúdos e ponteiros). Indique claramente onde estão o primeiro e o último elemento da lista:
+
+![image](https://github.com/user-attachments/assets/01b0759a-34f6-4010-b502-188ae88ba791)
+
+### [Lista Encadeada em Ordem](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/lista_encadeada_ordem.c)
+Função que verifica se uma lista encadeada que contém números inteiros está em ordem crescente.
+
+### [Lista Duplamente Busca](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/lista_duplamente_busca.c)
+Função que faz uma busca em uma lista duplamente encadeada.
+
+### [Funções para Listas](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/funcoes_lista.c)
+Programa com funções para uma lista simplesmente encadeada e um menu para o usuário escolher as funções:
+
+  a. Inserir no início
+  
+  b. Inserir no final
+  
+  c. Remover no início
+  
+  d. Remover no final
+  
+  e. Contar a quantidade de elementos da lista
+  
+  f. Buscar um elemento da lista
+  
+  g. Exibir todos os elementos da lista

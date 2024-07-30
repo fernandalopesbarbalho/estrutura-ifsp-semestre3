@@ -86,3 +86,10 @@ Programa com funções para uma lista simplesmente encadeada e um menu para o us
   f. Buscar um elemento da lista
   
   g. Exibir todos os elementos da lista
+
+## Pilhas e Filas - 27/07/2024
+### [Exemplo Funções Pilha](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/exemplo_funcoes_pilha.cpp)
+Exemplo fornecido pelo professor de como inserir, remover, imprimir e limpar pilhas em C++.
+
+### [Funções Fila](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/funcoes_fila.c)
+Programa que implementa uma fila e possui funções de inserir e remover.

@@ -93,3 +93,6 @@ Exemplo fornecido pelo professor de como inserir, remover, imprimir e limpar pil
 
 ### [Funções Fila](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/funcoes_fila.c)
 Programa que implementa uma fila e possui funções de inserir e remover.
+
+## [Pacote Java.Util](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/tree/main/pacote_java_util) - 04/08/2024
+Implementações para as estruturas do tipo fila e pilha em java, utilizando o pacote java.util.

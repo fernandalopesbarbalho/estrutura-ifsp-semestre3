@@ -96,3 +96,6 @@ Programa que implementa uma fila e possui funções de inserir e remover.
 
 ## [Pacote Java.Util](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/tree/main/pacote_java_util) - 04/08/2024
 Implementações para as estruturas do tipo fila e pilha em java, utilizando o pacote java.util.
+
+## [Árvore Binária](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/arvore_binaria.c) - 17/08/2024
+Programa para manipular árvores binárias por meio de funções.

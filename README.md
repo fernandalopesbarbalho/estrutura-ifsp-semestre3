@@ -1,6 +1,8 @@
 # Estrutura de Dados em C
 Códigos em linguagem C produzidos em aulas, atividades e trabalhos durante o terceiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Estrutura de Dados.
 
+Nota final: 9,3.
+
 ## Exemplos - 04/03/2024
 ### [Struct (Registro)](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3/blob/main/exemplo_struct.c)
 Exemplo fornecido pelo professor sobre como declarar uma estrutura para armazenar o nome e idade de uma pessoa.
